@@ -1,0 +1,23 @@
+{
+  "name": "conclave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conclave.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alesonb/Conclave-BFD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alesonb/Conclave-BFD/issues"
+  },
+  "homepage": "https://github.com/Alesonb/Conclave-BFD#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
